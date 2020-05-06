@@ -1,4 +1,4 @@
-# NetworkState
+# Network State
 
 ### **Overview - About this project**
 Simple project to handle network connection status with **LiveData**
